@@ -97,7 +97,7 @@
    </h1></center>
            <div>
            <center style="color:#FF0000; margin-top:85px; margin-left:450px; margin-right:450px;background-color:#ADFF2F"><h1>
-         CRISTIANO RONALDO
+         CRISTIANO RONALDO CR7
         </h1></center>
 
         <ul style="margin-left:105px; margin-top:10px; margin-right:90px; background-color:#00FF00">
